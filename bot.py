@@ -1,9 +1,7 @@
 from telebot import types
 import time
 import telebot
-import os
-token = os.environ['TTOOKKEENN']
-bot = telebot.TeleBot("token")
+bot = telebot.TeleBot("1020533358:AAFs-IyzgQMfwb9-truQZdE-Q4LaM_L6Jg0")
 
 def glm():
     key = types.InlineKeyboardMarkup()
