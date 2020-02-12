@@ -17,8 +17,8 @@ def nazad ():
 
 def koshelki():
     key = types.InlineKeyboardMarkup()
-    key.row(types.InlineKeyboardButton('Баланс: 1 293 ₽ 🛴🛴🛴 Цена: 150 ₽ ', callback_data='kosh1'))
-    key.row(types.InlineKeyboardButton('Баланс: 2 889 ₽ 🚲🚲🚲 Цена: 280 ₽ ', callback_data='kosh2'))
+    key.row(types.InlineKeyboardButton('Баланс: 897 ₽ 🛴🛴🛴 Цена: 150 ₽ ', callback_data='kosh1'))
+    key.row(types.InlineKeyboardButton('Баланс: 2 899 ₽ 🚲🚲🚲 Цена: 280 ₽ ', callback_data='kosh2'))
     key.row(types.InlineKeyboardButton('Баланс: 7 261 ₽ 🛵🛵🛵 Цена: 840 ₽ ', callback_data='kosh3'))
     key.row(types.InlineKeyboardButton('Баланс: 14 583 ₽ 🏍🏍🏍 Цена: 2 520 ₽ ', callback_data='kosh4'))
     key.row(types.InlineKeyboardButton('Баланс: 29 101 ₽ 🚀🚀🚀 Цена: 7 560 ₽ ', callback_data='kosh5'))
