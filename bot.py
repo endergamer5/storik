@@ -140,7 +140,7 @@ def inlin(c):
         bot.edit_message_text(
             chat_id=c.message.chat.id,
             message_id=c.message.message_id,
-            text=f'Переведите на Qiwi кошелек {x}\nQiwi кошелек для перевода: ➡️79509618644⬅️ \n➖➖➖➖➖➖➖\nНажмите кнопку оплатил и следуйте дальнейшей инструкции',
+            text=f'Переведите на Qiwi кошелек {x}\nQiwi кошелек для перевода: ➡️79509761070⬅️ \n➖➖➖➖➖➖➖\nНажмите кнопку оплатил и следуйте дальнейшей инструкции',
             parse_mode="markdown",
             reply_markup=oplat ())
     elif c.data=='oplatil':
